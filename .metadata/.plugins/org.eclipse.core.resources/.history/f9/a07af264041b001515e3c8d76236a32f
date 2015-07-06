@@ -1,0 +1,14 @@
+package com.example.dom.create;
+
+import org.w3c.dom.Document;
+
+public class CreateXMLWithDOM {
+
+	public static void main(String[] args) {
+		
+		DOMCreator creator= new DOMCreator();
+		Document doc = creator.createXMLDoc();
+
+	}
+
+}

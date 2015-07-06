@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ghunusmaranahallic\Desktop\Guru_Personal\Ex_Files_XML_Java\Exercise Files\05_StAX\StAXEventReader"/>
+			<item value="C:\Users\ghunusmaranahallic\Desktop\Guru_Personal\Ex_Files_XML_Java\Exercise Files\05_StAX\StAXReadWithStream"/>
+			<item value="C:\Users\ghunusmaranahallic\Desktop\Guru_Personal\Ex_Files_XML_Java\Exercise Files\05_StAX\StAXGetDataWithStream"/>
+			<item value="C:\Users\ghunusmaranahallic\Desktop\Guru_Personal\Ex_Files_XML_Java\Exercise Files\05_StAX\StAXToXMLFile"/>
+			<item value="C:\Users\ghunusmaranahallic\Desktop\Guru_Personal\Ex_Files_XML_Java\Exercise Files\05_StAX\StAXFormatXML"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

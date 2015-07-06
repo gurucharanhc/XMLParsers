@@ -1,0 +1,23 @@
+package com.example.stax.create;
+
+import java.io.StringWriter;
+import java.util.List;
+
+import javax.xml.stream.XMLOutputFactory;
+
+import com.example.model.Customer;
+
+public class StAXStreamCreator {
+
+	@SuppressWarnings("unused")
+	private static final String XMLDATEFORMAT = "yyyy-MM-dd'T'HH:mm:ss";
+
+	public void createDocument(List<Customer> data, String filename) {
+		
+		XMLOutputFactory factory = XMLOutputFactory.newInstance();
+		StringWriter sw = new StringWriter();
+		XMLStreamWriter writer= factory.createXMLStreamWriter(sw);
+	
+	}
+
+}

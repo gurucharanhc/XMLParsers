@@ -1,0 +1,16 @@
+package com.example.dom.create;
+
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.w3c.dom.Document;
+
+public class CreateXMLWithDOM {
+
+	public static void main(String[] args) throws ParserConfigurationException {
+		
+		DOMCreator creator= new DOMCreator();
+		Document doc = creator.createXMLDoc();
+
+	}
+
+}
